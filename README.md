@@ -22,6 +22,8 @@ FER
 
 
 #Screenshots of demo
+
+
 <img width="680" height="347" alt="Screenshot 2026-07-02 203612" src="https://github.com/user-attachments/assets/1bc3aa11-bed2-4ec3-b5a5-c2394d6425f0" />
 
 #Limitations
